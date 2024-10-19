@@ -1,4 +1,4 @@
-# Angular application for hotel booking
+# Angular application for hotel booking Curso ACS 2024
 
 ## Description
 
